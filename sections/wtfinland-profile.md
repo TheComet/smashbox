@@ -64,7 +64,7 @@ Default, except for
 
 # Button Descriptions
 
-## <Analog Stick>
+## Analog Stick
 
 Features:
  - SOCDs set as 2ip.
@@ -75,7 +75,7 @@ Features:
  - Downward diagonals initiate Fast Fall.
  - Lenient IRAR/RAR Uairs.
 
-## <MODE (+ CSR)>
+## MODE (+ CSR)
 
 A recovery cheat button. Transforms modified Quick Attack vectors conditionally
 to  closest  possible  angle for the 2nd zip, giving  out  maximum  norm-2  sum
@@ -93,7 +93,7 @@ Features:
    will give the UpB angles from 1.0.
  - Can initiate UpB using only right hand with [Mode + B]
 
-## <Tilt>
+## Tilt
 
 Used for walking, angled f-tilts and instant Dash Attack.
 
@@ -104,7 +104,7 @@ Features:
  - Diagonals give angled F-tilts (ground) and F/Bairs (air).
  - Placed so that rest of the GC buttons and Tilt 2 are easily accessible while holding down Tilt.
 
-## <Tilt2>
+## Tilt2
 
 Used for walking, turnaround U/D-tilts, platform falltrough and dash walking.
 
@@ -119,7 +119,7 @@ Features:
  - Tilts shield without rolls or spotdodges.
  - Placed so that rest of the GC buttons and Tilt are accessible while holding down Tilt2.
 
-## <X1>
+## X1
 
 Used for drifting Z-drops and UpB angles.
 
@@ -137,7 +137,7 @@ Features:
    linear modifiers  changes the sliding length of the returning zip for adjusting
    to enemy's distance or for mixupping shield crossups.
 
-## <X2>
+## X2
 
 Used for neutral B techs, drifting double jump Thunders and UpB angles.
 
@@ -157,7 +157,7 @@ Features:
  - Good angle for ground sliding QA trumps,  as framewise it gives you some room
    for error for releasing A-Down so you don't SD
 
-## <Y2>
+## Y2
 
 Used for UpB angles.
 
@@ -167,7 +167,7 @@ Features:
  - UpB can't be activated by holding up diagonal + MY2 before pressing B,  as it
    initiates Skull Bash.
 
-## <Y1>
+## Y1
 
 Used for UpB angles.
 
@@ -183,7 +183,7 @@ Features:
  - UpB can't be activated by  holding up diagonal + Y1/MY1 before pressing B, as
    it initiates Skull Bash.
 
-## <Tilt3>
+## Tilt3
 
 Mostly Pikachu bullshit fuckery techs. Inputted with Tilt+Tilt2.
 
@@ -215,7 +215,7 @@ frames and a large killer hitbox. TWS has some use in  edgeguarding also, as it
 can be  used  to  stall  at  the  bottom  blast zone (enemy has to respect your
 optional  Blue  Thunder  stall,  since you can mix up your tjt timing with  it)
 
-## <LS->Dpad>
+## LS->Dpad
 
 Super easy and lenient Neutral B-reverses and  Neutral  B  Wavebounces.  Can be
 used for UpB.
@@ -232,7 +232,7 @@ Features:
 both normal and Mode directions work, but the angle must have non-zero x-vector
 since only dpad left/right is set to Special
 
-## <C-Left / C-Right>
+## C-Left / C-Right
 
 Used for IRAs, Z-drop F/Bairs and B-reverse Thunders. Otherwise quite on the sidelines.
 
@@ -244,7 +244,7 @@ Features:
    recommended to do them with other methods.
 
 
-## <C-Up>
+## C-Up
 
 Placement  above R for quick thumb access. Used especially for Uair bridges and
 together with Fast Falling.
@@ -256,7 +256,7 @@ Features:
  - C-Stick Fast Fall -method can be tapped with this button, works well both for
    Uair Bridges and for Uair to Thunder combos.
 
-## <C-Down>
+## C-Down
 
 Placement below R for quick thumb  access.  Used especially for Dair Fast Falls
 and Dtilt to instant Dash Attack links.
@@ -267,7 +267,7 @@ Features:
  - Spamming D-tilt with C-Down is  good,  as  one  can  easily  link  D-tilts to
    instant Dash Attack with [Forward -> Tilt+A].
 
-## <Z>
+## Z
 
 Placed so that Z can be chained with X1,  directional buttons, X, A and C-Stick
 and Multitilts for Z-drop techs and turnaround grabs in Nair loops. Anchor your
@@ -279,14 +279,14 @@ Features:
    when ledge hanging, [A-Down  ->  X  -> Z -> C-Forward -> A-Forward] to get drop
    down DJ Neutral Air Dodge to a platform.
 
-## <R>
+## R
 
 Placed in middle of the thumb cluster for instant access. Anchor you thumb here.
 
 Features:
  - Access to Jump, UpB, Dodges, Shieldgrab and Shield tilt from holding Shield with ease.
 
-## <X and Y>
+## X and Y
 
 Located next to A and B as they are plinked together constantly, while allowing
 Multitilts to be held also.
@@ -298,17 +298,17 @@ Features:
    between   the   top   and  homerow.  Y  works  especially  for  IDJ   Thunders.
  - IDJ can also be performed by sliding a finger from Y to X.
 
-## <A>
+## A
 
 On the Homerow with Jump and Multitilts for priority access.
 
-## <B>
+## B
 
 Placed next to  Jump,  Mode  is  efficiently  on  the  same row, Multitilts are
 accessible. B+A Smash (Holding one and mashing the other) isn't the simplest to
 do,  but  can  be  achieved  with  index  finger   and   thumb/middle   finger.
 
-## <L>
+## L
 
 Only used in training profile and quitting matches. Replaces Y, so jumping must
 be performed with X when speed is set to 1 Frame.
