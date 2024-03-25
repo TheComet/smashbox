@@ -5,9 +5,9 @@ decide to lab it further.
 
 # Version 1.1
 
-[The_Amazing_Pikachu_v1.1.sbl](profiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1.sbl)
-[The_Amazing_Pikachu_v1.1_-_Training.sbl](rofiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1_-_Training.sbl)
-[The_Amazing_Pikachu_Version_1.1.sbx](profiles/WTFinland/1.1/The_Amazing_Pikachu_Version_1.1.sbx)
+[The_Amazing_Pikachu_v1.1.sbl](../profiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1.sbl)  
+[The_Amazing_Pikachu_v1.1_-_Training.sbl](../profiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1_-_Training.sbl)  
+[The_Amazing_Pikachu_Version_1.1.sbx](../profiles/WTFinland/1.1/The_Amazing_Pikachu_Version_1.1.sbx)  
 
 # Version 1.22
 
