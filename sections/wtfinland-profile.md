@@ -2,6 +2,8 @@ Here's the profile I'm currently using on Smash Box :pikadab:
 
 Recommended to read through even if you end up on using  something different or
 decide to lab it further.
+ 
+![](../images/smashbox-layout-1.22.png)
 
 # Version 1.1
 
@@ -25,11 +27,11 @@ decide to lab it further.
 
 # Summary
 
-Profile: The Amazing Pikachu
-Version: 1.1
-Game: Ultimate
-Date: 01/10/2022
-Author: WTFinland
+Profile: The Amazing Pikachu  
+Version: 1.1  
+Game: Ultimate  
+Date: 01/10/2022  
+Author: WTFinland  
 
 ## Pros
 
