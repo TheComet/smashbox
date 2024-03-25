@@ -5,6 +5,8 @@ decide to lab it further.
 
 # Version 1.1
 
+(Right-Click -> Save As)
+
 [The_Amazing_Pikachu_v1.1.sbl](../profiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1.sbl)  
 [The_Amazing_Pikachu_v1.1_-_Training.sbl](../profiles/WTFinland/1.1/The_Amazing_Pikachu_v1.1_-_Training.sbl)  
 [The_Amazing_Pikachu_Version_1.1.sbx](../profiles/WTFinland/1.1/The_Amazing_Pikachu_Version_1.1.sbx)  
@@ -19,7 +21,7 @@ decide to lab it further.
  - MTilt1
    + Works for QA trumps now
 
-[The_Amazing_Pikachu_Version_1.22.sbx](profiles/WTFinland/1.22/The_Amazing_Pikachu_Version_1.22.sbx)
+[The_Amazing_Pikachu_Version_1.22.sbx](../profiles/WTFinland/1.22/The_Amazing_Pikachu_Version_1.22.sbx)
 
 # Summary
 
@@ -56,5 +58,5 @@ Default, except for
  - Stick Jump -> Off
  - Stick Sensitivity -> High
 
- ![](images/ssbu-smashbox-layout-1.22.png)
+ ![](../images/ssbu-smashbox-layout-1.22.png)
 
