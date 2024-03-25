@@ -30,6 +30,6 @@ schmoving.
 
 (directional input thresholds) for different moves and commands.
 
-[https://docs.google.com/spreadsheets/d/1Zh0kDLW4w_Dzv8uz1IYM3mewAmKSl4c-qhRbKXpUM_U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Zh0kDLW4w_Dzv8uz1IYM3mewAmKSl4c-qhRbKXpUM_U/edit?usp=sharing)
-[data/Smash Input Maps and Profiles.ods](data/Smash Input Maps and Profiles.ods)
+[https://docs.google.com/spreadsheets/d/1Zh0kDLW4w_Dzv8uz1IYM3mewAmKSl4c-qhRbKXpUM_U/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Zh0kDLW4w_Dzv8uz1IYM3mewAmKSl4c-qhRbKXpUM_U/edit?usp=sharing)  
+[Smash Input Maps and Profiles.ods](../data/Smash Input Maps and Profiles.ods)
 
